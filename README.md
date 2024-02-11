@@ -1,5 +1,5 @@
 # Create your own Image Classifier
-
+The project implements an image classification application. The application trains a deep learning model on a data set of images, then uses tha trained model to classify images.
 
 
 Install
